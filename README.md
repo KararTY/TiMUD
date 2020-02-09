@@ -20,5 +20,5 @@ WIP.
 ## Contributing
 Use **eslint** & and make sure running **`npm start`** doesn't error, *also known as running the tests*.
 
-## MIT License
+## GPL-3.0-only License
 Karar Al-Remahy
